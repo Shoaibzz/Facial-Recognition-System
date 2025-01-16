@@ -25,23 +25,22 @@ Clone the Repository:
 bash
 Copy
 Edit
-git clone https://github.com/Shoaib/FacialRecognitionSystem.git
+git clone - https://github.com/Shoaibzz/Facial-Recognition-System
 cd FacialRecognitionSystem
-Install Dependencies:
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
+
+
+
+
+
 Configure Firebase:
 
 Replace the placeholder in firebase_config.json with your Firebase project details.
-Run the Application:
 
-bash
-Copy
-Edit
-python main.py
+
+
+
+
 Outcomes
 Reduced administrative overhead by 40%.
 Improved operational efficiency by 90%.
@@ -50,5 +49,9 @@ Future Enhancements
 Integration with other authentication mechanisms.
 Expansion to support multi-campus setups.
 Addition of a mobile application interface.
+
+
+
+
 Contribution
 Contributions are welcome! Please feel free to raise issues or submit pull requests
